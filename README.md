@@ -1,2 +1,2 @@
 # hello-world
-My firts repository
+My firts repository is about Apeperia Alura. The project is very easy. 
